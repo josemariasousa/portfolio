@@ -83,6 +83,7 @@ html {
     border-radius: 20px;
     transition: all .3s ease;
     background-color: var(--cor-primaria);
+    align-items: center;
   }
   
   .botao:hover {
