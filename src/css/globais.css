@@ -9,7 +9,7 @@ html {
   }
   
   body {
-    background-color: var(--cor-fundo-cinza-escuro);
+    background: url(../imagens/joakim-honkasalo-xurSt4KdKL4-unsplash.jpg) center center no-repeat ;
     font-family: var(--fonte-primaria);
     font-size: var(--fonte-normal);
   }
